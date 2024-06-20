@@ -3,6 +3,9 @@ table{
 	border-collapse:collapse
 }
 
+#t11{
+	border:1px solid rgb(0, 0, 0);
+}
 #t12{
 	text-align:center;
 }
