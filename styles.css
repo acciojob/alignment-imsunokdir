@@ -1,5 +1,5 @@
 table{
-	width:80%;
+	width:100%;
 	border-collapse:collapse
 }
 
@@ -25,7 +25,7 @@ table{
         }
 
 #t-image{
-	text-align:center
+	text-align:center;
 }
 
 
