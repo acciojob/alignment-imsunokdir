@@ -1,1 +1,31 @@
-/*  your css code here. If applicable */
+table{
+	width:80%;
+	border-collapse:collapse
+}
+
+#t12{
+	text-align:center;
+}
+
+#t13{
+	text-align:right;
+}
+
+#table-2{
+	bord
+}
+
+#table-2 td {
+            border: 1px solid black;
+            width: 100px; 
+            height: 15px; 
+            /* text-align: center;
+            /* Uncomment the following line to add padding if needed */ */
+            /* padding: 10px; */
+        }
+
+#t-image{
+	text-align:center
+}
+
+
